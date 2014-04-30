@@ -11,7 +11,6 @@ You can read more about the grant round process on the research blog on our [web
 
 #### New projects funded in 2013
 
-Try this [link](www.google.co.uk).
 From our 2013 grant round we’ve committed funding to 18 new projects, totalling £2.1 million. This takes our total spend on research since 1956 to £148 million (in today’s money).Research into progressive MS is a priority area, and this is reflected in the new projects funded. Many studies are focused on ways to repair damage to myelin, while other interesting new projects aim to develop treatments for foot drop, bladder symptoms and chronic leg swelling.
 
 Visit the research pages of the [website](http://www.mssociety.org.uk/ms-news-research/ms-research "MS Society Research") for more details on all the new projects.
