@@ -1,9 +1,14 @@
-# Summary
+# Newsletter
 
-This is the summary of my book.
+Welcome to our first experimental GitBook issue of this newsletter.
 
-* [First Section](README.md)
-    * [Article 1](articles/article1.md)
-    * [Article 2](articles/article2.md)
-* [Second Section](LICENSE.md)
-    * [Article 3](articles/article3.md)
+It's experimental because we're not sure if we'll stick with this format so if you like it please get in touch to say so.
+
+Anyway, we hope you like what's in it and find some good stuff.
+
+* News
+    * [Coast2Coast walk](articles/coast2coast.md)
+    * [Funding research](articles/funding_research.md)
+* [Branch Info](LICENSE.md)
+    * [Branch annual meeting](articles/branch_annual_meeting.md)
+    * [Branch news](articles/branch_news.md)

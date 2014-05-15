@@ -2,7 +2,7 @@
 ## Source: TeamSpirit
 ### Date: Feb 2014
 
-![Test Tubes](test_tubes.jpg)
+![Test Tubes](img/test_tubes.jpg)
 
 Our 2014 grant round has now closed for applications, and final decisions on the projects we’ll be funding will be made in the summer.
 Funding decisions will be made by two expert panels of researchers, scientists and people affected by MS. These panels will consider all aspects of the application itself and how well it fits with our Research Strategy and James Lind Alliance (JLA) Priorities.
